@@ -1,0 +1,14 @@
+#a{
+    color:black;
+    text-shadow: 5px 5px 5px black;
+    font-family: 'cursive';
+    font-size:100px;
+}
+.heading{
+    width:100%;
+    text-align:left;
+}
+.heading button{
+    float:right;
+    border:1px solid white;
+}
