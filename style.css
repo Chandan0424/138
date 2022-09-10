@@ -1,6 +1,6 @@
 #a{
     color:black;
-    text-shadow: 5px 5px 5px black;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
     font-family: 'cursive';
     font-size:100px;
 }
@@ -11,4 +11,24 @@
 .heading button{
     float:right;
     border:1px solid white;
+}
+#start,#status,#restart{
+    font-size: 22px;
+}
+.modal-dialog{
+    width:70%;
+}
+.modal-body{
+    font-size:20px;
+    text-align:left;
+}
+h4{
+    background-color: grey;
+    color:white;
+    line-height:2;
+}
+canvas{
+    border:3px solid silver;
+    border-radius:20px;
+    box-shadow:5px 5px 5px cyan;
 }
